@@ -1,0 +1,14 @@
+D:\_Git\Interviews\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.exe
+D:\_Git\Interviews\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.deps.json
+D:\_Git\Interviews\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.runtimeconfig.json
+D:\_Git\Interviews\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.dll
+D:\_Git\Interviews\ToyRobot\ToyRobot\bin\Debug\net8.0\ToyRobot.pdb
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfoInputs.cache
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfo.cs
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.csproj.CoreCompileInputs.cache
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.dll
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\refint\ToyRobot.dll
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.pdb
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ToyRobot.genruntimeconfig.cache
+D:\_Git\Interviews\ToyRobot\ToyRobot\obj\Debug\net8.0\ref\ToyRobot.dll
